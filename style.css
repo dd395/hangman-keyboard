@@ -1,0 +1,63 @@
+body{
+    background-color: lightcyan;
+    text-align: center;
+    padding: 50px;
+
+}
+
+#keyboard {
+    background-color: teal;
+    color: white;
+    text-align: justify-all;
+    padding:10px 2px;
+
+}
+
+p{
+    font-size:30px;
+    font-style: italic;
+    font-weight: bold;
+    color: green;
+    padding: 5px;
+}
+
+.btn{
+    background-color: blue;
+    padding: 10px;
+    font-size: 50px;
+}
+
+h1{
+    font-size: 75px;
+    font-style: italic;
+    padding: 25px;
+
+}
+
+.float-right{
+    font-size:25px;
+    color: red;
+    font-weight: bold;
+
+}
+
+p{
+
+    font-style: italic;
+    font-weight: bold;
+    color: green;
+
+}
+#wordSpotlight{
+    font-size: 50px;
+    font-weight: bold;
+}
+
+.btn-info{
+    background-color: lightcoral;
+    padding: 0.4rem 1.3rem;
+    font-size: 30px;
+    cursor: pointer;
+    margin: 1rem;
+
+}
